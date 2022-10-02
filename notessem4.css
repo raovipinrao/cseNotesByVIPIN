@@ -1,0 +1,16 @@
+#tabl{
+  border-collapse: collapse;
+width: 80%;
+font-family: "Audiowide", sans-serif;
+text-align: center;
+font-size: 29px;
+}
+h1{
+  text-align: center;
+font-size: 60px;
+}
+body{
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGTqpOAt1MxCNJfcIURVCD2lyLGzmhcVhiTw&usqp=CAU);
+  background-size: cover;
+  width: 100%;
+}

@@ -1,0 +1,10 @@
+#tabl{
+    border-collapse: collapse;
+  width: 80%;
+  font-family: "Audiowide", sans-serif;
+  text-align: center;
+  font-size: 29px;
+}
+body{
+  background-color: cadetblue;
+}

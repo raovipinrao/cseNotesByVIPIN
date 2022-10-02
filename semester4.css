@@ -1,0 +1,12 @@
+body{
+    background-image: url(https://ak.picdn.net/shutterstock/videos/1063389826/thumb/1.jpg?ip=x480);
+    background-size: cover;
+    width: 100%;
+  }
+#tabl{
+    border-collapse: collapse;
+  width: 80%;
+  font-family: "Audiowide", sans-serif;
+  text-align: center;
+  font-size: 29px;
+}

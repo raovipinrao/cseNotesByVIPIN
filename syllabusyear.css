@@ -1,0 +1,17 @@
+#tabl{
+    border-collapse: collapse;
+  width: 80%;
+  font-family: "Audiowide", sans-serif;
+  text-align: center;
+  font-size: 29px;
+}
+h1{
+    text-align: center;
+  font-size: 60px;
+}
+body{
+    background-image: url(https://thumbs.dreamstime.com/z/inscription-exam-keyboard-stationary-blue-background-top-view-174694968.jpg);
+    background-size: cover;
+    width: 100%;
+}
+
